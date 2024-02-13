@@ -1,0 +1,4 @@
+How to run SlayerLeecher.
+
+  1) Download open source file (.zip)
+  2) Run "Install.bat" to install all requirements needed for SlayerLeecher
